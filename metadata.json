@@ -1,0 +1,6 @@
+{
+  "name": "Victory Guts Gym",
+  "description": "A premium, modern, and high-energy website for Victory Guts Gym in Vijayawada, featuring weight training, cardio, personal training, and luxury fitness utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
